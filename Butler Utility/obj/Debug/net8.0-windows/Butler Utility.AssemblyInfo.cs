@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Itch.io Butler Utility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1efbee5d941c589b3ac18a25f63fca5baf8cccc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4d1eae7aa86be1363686fca59418001bdd83e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Itch.io Butler Utility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Itch.io Butler Utility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
